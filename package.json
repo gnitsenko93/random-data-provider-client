@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "0.0.1",
+  "description": "A tiny client to win a game with random data sets.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Greg Nitsenko",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.4.0",
+    "ws": "^7.2.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "eslint-plugin-vue": "^6.1.2"
+  }
+}
